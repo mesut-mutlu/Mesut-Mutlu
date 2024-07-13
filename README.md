@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mesut Mutlu</h1>
-<h3 align="center">A junior Front-End Developer from Turkey</h3>
+# Hi 👋, I'm Mesut Mutlu
+## A junior Front-End Developer from Turkey
 
 <br/>  
 
