@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mesut Mutlu
-## A junior Front-End Developer from Turkey
+## A junior Software Developer from Turkey
 
 <br/>  
 
